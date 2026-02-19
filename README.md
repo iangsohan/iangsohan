@@ -1,6 +1,6 @@
 # Hey, I'm Ian 👋
 
-I'm a Software Development Engineer at AWS, currently working on EC2 Outposts connectivity infrastructure. Outside of work, I'm building [Hivewire](https://hivewire.news) — an AI-powered news platform.
+I'm a Software Development Engineer at AWS, currently working on EC2 Outposts network connectivity infrastructure. Outside of work, I'm building [Hivewire](https://hivewire.news) — an AI-powered news platform.
 
 `Java` `Python` `TypeScript` `Kotlin` `React` `AWS` `Neo4j` `DynamoDB` `Rust` `Go` `C++`
 
